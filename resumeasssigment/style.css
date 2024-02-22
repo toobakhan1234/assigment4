@@ -1,0 +1,53 @@
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .resume {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f9f9f9;
+        }
+        
+        .header h1 {
+            margin: 0;
+        }
+        
+        .header p {
+            margin: 5px 0;
+        }
+        
+        .section {
+            margin-top: 20px;
+        }
+        
+        .section h2 {
+            margin-top: 0;
+        }
+        
+        ul {
+            padding: 0;
+            list-style-type: none;
+        }
+        
+        ul li {
+            margin-bottom: 5px;
+        }
+        
+        body {
+            background-color: rgb(192, 192, 192);
+        }
+        
+        h1 {
+            background-color: darkgray;
+        }
+        
+        h2 {
+            background-color: darkgray;
+        }
+        
+        p {
+            font-size: medium;
+        }
